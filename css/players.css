@@ -1,0 +1,20 @@
+
+.main{
+    background: linear-gradient(90deg, rgb(0, 195, 255) 10%, rgb(11, 52, 63) 90%);
+    width: 100vw;
+    height: 100vh;
+    
+ }
+
+#img{
+ width:25vh;
+ margin-bottom: 5vh;
+}
+
+.lineas{
+width: 100vh;
+}
+
+.bottom{
+    background-color: rgba(0, 0, 0, 0.601);
+}
