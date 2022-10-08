@@ -1,0 +1,34 @@
+.body{
+    background: linear-gradient(90deg, rgb(0, 195, 255) 10%, rgb(11, 52, 63) 90%);
+    width: 100vw;
+    height: 100vh;
+}
+
+.consola{
+    background-color: aqua;
+    width: 80vw;
+    height: 60vh;
+}
+
+.tres-raya{
+
+    background-color: coral;
+    height: 60vh;
+    width: 55vw;
+}
+
+.izq{
+    padding:0%
+}
+
+.der{
+    padding: 0%;
+}
+
+.h{
+    height: 20vh;
+    /* background-color: blanchedalmond; */
+    border-width: 0.1;
+    border-color: black;
+    border-style:inset;
+}
